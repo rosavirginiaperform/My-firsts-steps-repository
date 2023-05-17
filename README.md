@@ -5,3 +5,4 @@ My first repository to learn how to use Github
 Updating readme
 Testing with the news devices
 Awesome
+Rosa Virginia
